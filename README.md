@@ -1,14 +1,17 @@
 # django_rest_test
-## Hope you are doing well
+### Hope you are doing well
 
-## Install the virtualenv package
+### clone the project by using 
+git clone https://github.com/vmlnayak/django_rest_test.git
+
+### Install the virtualenv package
 pip install virtualenv
 
 
-## Create the virtual environment
+### Create the virtual environment
 virtualenv venv
 
-## Activate the virtual environment
+### Activate the virtual environment
 
 ### for MAC OS
 source mypython/bin/activate
